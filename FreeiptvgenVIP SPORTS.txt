@@ -1,0 +1,536 @@
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK: Sky Sports News HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/1f262f0319876c9cf1e459eb607e3340.png" group-title="UK VIP :  SPORTS",UK: Sky Sports News HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089363.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK: Sky Sports News HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/8ad8156bcc476c38a45ab9d1b0f3b8dd.png" group-title="UK VIP :  SPORTS",UK: Sky Sports News HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089364.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK: Sky Sports Main Event HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/7434c6bae9433c0fa9f50d6c10d3509c.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Main Event HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089365.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK: Sky Sports Main Event HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/7434c6bae9433c0fa9f50d6c10d3509c.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Main Event HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089366.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK: Sky Sports Premier League HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/feaf9b673599d282872041d0265a27f0.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Premier League HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089367.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK: Sky Sports Premier League HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/feaf9b673599d282872041d0265a27f0.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Premier League HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089368.ts
+#EXTINF:-1 tvg-id="SSPORAC" tvg-name="UK: Sky Sports Racing FHD" tvg-logo="http://vpngenerators.com:25461/images/f6642cfd7c9eec945a8e6da3a1e51286.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Racing FHD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089369.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK: Sky Sports Football HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/3616b39225ae6f26f44964f1576d0241.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Football HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089370.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK: Sky Sports Football HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/3616b39225ae6f26f44964f1576d0241.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Football HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089371.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK: Sky Sports Football FHD" tvg-logo="http://vpngenerators.com:25461/images/e66ae1dfb944775c0cac02ec3ad11789.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Football FHD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089372.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK: Sky Sports Football SD" tvg-logo="http://vpngenerators.com:25461/images/e66ae1dfb944775c0cac02ec3ad11789.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Football SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089373.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK: Sky Sports Cricket HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/4275211b4cffd2cfdd36781dbdfecdca.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Cricket HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089374.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK: Sky Sports Cricket HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/4275211b4cffd2cfdd36781dbdfecdca.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Cricket HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089375.ts
+#EXTINF:-1 tvg-id="SSPOCR" tvg-name="UK: Sky Sports Cricket SD" tvg-logo="http://vpngenerators.com:25461/images/e1556d1558d2e3509e7b289bff0a2505.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Cricket SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089376.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK: Sky Sports Golf HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/44b41a9de6318c535bb3d562e72a65b3.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Golf HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089377.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK: Sky Sports Golf HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/44b41a9de6318c535bb3d562e72a65b3.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Golf HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089378.ts
+#EXTINF:-1 tvg-id="SSPOGO" tvg-name="UK: Sky Sports Golf SD" tvg-logo="http://vpngenerators.com:25461/images/1ac30df1e2dcf15537029b2882eab8db.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Golf SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089379.ts
+#EXTINF:-1 tvg-id="SSPOACD" tvg-name="UK: Sky Sports Action HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/341b608bc382d77a0ecbbe3b1a7fc3c5.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Action HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089380.ts
+#EXTINF:-1 tvg-id="SSPOACD" tvg-name="Sky Sports Action HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/341b608bc382d77a0ecbbe3b1a7fc3c5.png" group-title="UK VIP :  SPORTS",Sky Sports Action HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089381.ts
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="UK: Sky Sports Action SD" tvg-logo="http://vpngenerators.com:25461/images/522cd1f2af9acce23007230dfb38d47f.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Action SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089382.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK: Sky Sports Arena HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/0c3b57e94ac54d8b633280bdf0b86755.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Arena HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089383.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK: Sky Sports Arena HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/0c3b57e94ac54d8b633280bdf0b86755.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Arena HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089384.ts
+#EXTINF:-1 tvg-id="SSPOAR" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="http://vpngenerators.com:25461/images/e967a75d3f6c6f1383c46e4d08d05473.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Arena FHD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089385.ts
+#EXTINF:-1 tvg-id="SSPOAR" tvg-name="UK: Sky Sports Arena SD" tvg-logo="http://vpngenerators.com:25461/images/e967a75d3f6c6f1383c46e4d08d05473.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Arena SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089386.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK: Sky Sports Mix HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/0095f327b17ed7268704b52e93be9479.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Mix HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089387.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK: Sky Sports Mix HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/0095f327b17ed7268704b52e93be9479.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Mix HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089388.ts
+#EXTINF:-1 tvg-id="SSPOMXS" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="http://vpngenerators.com:25461/images/6943400c0689445cf969724ddf1a89d1.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Mix FHD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089389.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK: Sky Sports F1 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/891a92ee8dd6674128e3eeabdc933919.png" group-title="UK VIP :  SPORTS",UK: Sky Sports F1 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089390.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK: Sky Sports F1 HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/891a92ee8dd6674128e3eeabdc933919.png" group-title="UK VIP :  SPORTS",UK: Sky Sports F1 HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089391.ts
+#EXTINF:-1 tvg-id="SSPOF1" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="http://vpngenerators.com:25461/images/2e56639ca53add893abd21813ee078d4.png" group-title="UK VIP :  SPORTS",UK: Sky Sports F1 FHD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089392.ts
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK: Sky Sports Racing HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/f6642cfd7c9eec945a8e6da3a1e51286.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Racing HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089393.ts
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK: Sky Sports Racing HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/f6642cfd7c9eec945a8e6da3a1e51286.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Racing HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089394.ts
+#EXTINF:-1 tvg-id="SSPORAC" tvg-name="UK: Sky Sports Racing" tvg-logo="http://vpngenerators.com:25461/images/f6642cfd7c9eec945a8e6da3a1e51286.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Racing
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089395.ts
+#EXTINF:-1 tvg-id="LIGATV" tvg-name="UK: LaLiga TV HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/0614af1043e06ab88dfa72b806c2f3d6.png" group-title="UK VIP :  SPORTS",UK: LaLiga TV HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089396.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK: BT Sport 1 FHD (50FPS)" tvg-logo="http://vpngenerators.com:25461/images/8cffa6b3955403b319f42f736496f743.png" group-title="UK VIP :  SPORTS",UK: BT Sport 1 FHD (50FPS)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089443.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: BT Sport 2 FHD (50FPS)" tvg-logo="http://vpngenerators.com:25461/images/bc5f8fda884f7cf101851dffe84e8087.png" group-title="UK VIP :  SPORTS",UK: BT Sport 2 FHD (50FPS)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089444.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK: BT Sport 3 FHD (50FPS)" tvg-logo="http://vpngenerators.com:25461/images/070a8763a1c2f66cafe0c5b4daf6fb44.png" group-title="UK VIP :  SPORTS",UK: BT Sport 3 FHD (50FPS)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089445.ts
+#EXTINF:-1 tvg-id="BTSPX1H" tvg-name="UK: BT Sport 4 FHD (50FPS)" tvg-logo="http://fanc.tmsimg.com/assets/s100889_ll_h3_aa.png" group-title="UK VIP :  SPORTS",UK: BT Sport 4 FHD (50FPS)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089446.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport Ultimate 4K UHD (Events Only)" tvg-logo="" group-title="UK VIP :  SPORTS",UK : BT Sport Ultimate 4K UHD (Events Only)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20099861.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK: BT Sport 1 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/308dfd2f3d6ac433cdd7c0b800e93860.png" group-title="UK VIP :  SPORTS",UK: BT Sport 1 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089402.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK: BT Sport 1 HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/308dfd2f3d6ac433cdd7c0b800e93860.png" group-title="UK VIP :  SPORTS",UK: BT Sport 1 HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089403.ts
+#EXTINF:-1 tvg-id="BTSP1FR" tvg-name="UK: BT Sport 1 SD" tvg-logo="http://vpngenerators.com:25461/images/d97ff5cde6bcf52953923e41a881a2e5.png" group-title="UK VIP :  SPORTS",UK: BT Sport 1 SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089404.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: BT Sport 2 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/bc5f8fda884f7cf101851dffe84e8087.png" group-title="UK VIP :  SPORTS",UK: BT Sport 2 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089405.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: BT Sport 2 HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/bc5f8fda884f7cf101851dffe84e8087.png" group-title="UK VIP :  SPORTS",UK: BT Sport 2 HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089406.ts
+#EXTINF:-1 tvg-id="BTSPOR2" tvg-name="UK: BT Sport 2 SD" tvg-logo="http://vpngenerators.com:25461/images/670960fcf1db49bc3503a42f39aa5cc9.png" group-title="UK VIP :  SPORTS",UK: BT Sport 2 SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089407.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK: BT Sport 3 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/070a8763a1c2f66cafe0c5b4daf6fb44.png" group-title="UK VIP :  SPORTS",UK: BT Sport 3 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089408.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK: BT Sport 3 HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/070a8763a1c2f66cafe0c5b4daf6fb44.png" group-title="UK VIP :  SPORTS",UK: BT Sport 3 HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089409.ts
+#EXTINF:-1 tvg-id="BTSP3HD" tvg-name="UK: BT Sport 3 SD" tvg-logo="http://vpngenerators.com:25461/images/070a8763a1c2f66cafe0c5b4daf6fb44.png" group-title="UK VIP :  SPORTS",UK: BT Sport 3 SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089410.ts
+#EXTINF:-1 tvg-id="ESPNUK" tvg-name="UK: BT Sport 4 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/a67f0175a25f686768b193cdfbc38682.png" group-title="UK VIP :  SPORTS",UK: BT Sport 4 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089411.ts
+#EXTINF:-1 tvg-id="ESPNUK" tvg-name="UK: BT Sport 4 SD" tvg-logo="http://vpngenerators.com:25461/images/a67f0175a25f686768b193cdfbc38682.png" group-title="UK VIP :  SPORTS",UK: BT Sport 4 SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089412.ts
+#EXTINF:-1 tvg-id="BTSPX5" tvg-name="UK: BT Sport Extra 5 HD" tvg-logo="http://vpngenerators.com:25461/images/bdf4890bc8d01ed9a70a665721bce259.png" group-title="UK VIP :  SPORTS",UK: BT Sport Extra 5 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089413.ts
+#EXTINF:-1 tvg-id="BTSPX6" tvg-name="UK: BT Sport Extra 6 HD" tvg-logo="http://vpngenerators.com:25461/images/f075cdebb270d06043d05eb0f57a428f.png" group-title="UK VIP :  SPORTS",UK: BT Sport Extra 6 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089414.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 7 HD" tvg-logo="http://vpngenerators.com:25461/images/2d189bff3623e8938bc596dc106ae146.png" group-title="UK VIP :  SPORTS",UK: BT Sport Extra 7 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089415.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 8 HD" tvg-logo="http://vpngenerators.com:25461/images/603255494e55ba464cfd61c4b0822725.png" group-title="UK VIP :  SPORTS",UK: BT Sport Extra 8 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089416.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 9 HD" tvg-logo="http://vpngenerators.com:25461/images/a9e31e22904ce0aa62a3032a7b077e2c.png" group-title="UK VIP :  SPORTS",UK: BT Sport Extra 9 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089417.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 10 HD" tvg-logo="http://vpngenerators.com:25461/images/6fa9283add27f88c03b05e6f8787cf31.png" group-title="UK VIP :  SPORTS",UK: BT Sport Extra 10 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089418.ts
+#EXTINF:-1 tvg-id="ESPNUK" tvg-name="UK: BT Sport 4 HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/425c7c73803af2f4ac79bf977ca5f37f.png" group-title="UK VIP :  SPORTS",UK: BT Sport 4 HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089442.ts
+#EXTINF:-1 tvg-id="SSPOME" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="http://vpngenerators.com:25461/images/dea68d645d949fc5b8349f8d793e6419.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Main Event FHD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089447.ts
+#EXTINF:-1 tvg-id="SSPOCR" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="http://vpngenerators.com:25461/images/e1556d1558d2e3509e7b289bff0a2505.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Cricket FHD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089448.ts
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="UK: Sky Sports Action FHD" tvg-logo="http://vpngenerators.com:25461/images/522cd1f2af9acce23007230dfb38d47f.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Action FHD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089449.ts
+#EXTINF:-1 tvg-id="SSPOGO" tvg-name="UK: Sky Sports Golf FHD" tvg-logo="http://vpngenerators.com:25461/images/1ac30df1e2dcf15537029b2882eab8db.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Golf FHD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089450.ts
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="UK: Sky Sports Premier League FHD" tvg-logo="http://vpngenerators.com:25461/images/47c156cf1ee33f5a401555d2409f2a84.png" group-title="UK VIP :  SPORTS",UK: Sky Sports Premier League FHD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089451.ts
+#EXTINF:-1 tvg-id="LVPOLTV" tvg-name="UK: LiverpoolFCTV HD" tvg-logo="http://vpngenerators.com:25461/images/047876e6e31dea2866e67cdb8d518a31.png" group-title="UK VIP :  SPORTS",UK: LiverpoolFCTV HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089452.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Box Office FHD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/1df29d9f1f241b59aa27d6df780dedcd.jpg" group-title="UK VIP :  SPORTS",UK: Sky Sports Box Office FHD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089397.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Box Office HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/1df29d9f1f241b59aa27d6df780dedcd.jpg" group-title="UK VIP :  SPORTS",UK: Sky Sports Box Office HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089398.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Box Office HD (RAW)" tvg-logo="http://vpngenerators.com:25461/images/594034bc62dccc047e67d04b3e17d7e9.jpg" group-title="UK VIP :  SPORTS",UK: BT Sport Box Office HD (RAW)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089399.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Box Office HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/594034bc62dccc047e67d04b3e17d7e9.jpg" group-title="UK VIP :  SPORTS",UK: BT Sport Box Office HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089400.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Box Office HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/594034bc62dccc047e67d04b3e17d7e9.jpg" group-title="UK VIP :  SPORTS",UK: BT Sport Box Office HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089401.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK: Eurosport 1 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/8e3b674c6baa13bab1173bedd1efca81.png" group-title="UK VIP :  SPORTS",UK: Eurosport 1 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089419.ts
+#EXTINF:-1 tvg-id="ESUK1" tvg-name="UK: Eurosport 1 HD" tvg-logo="http://vpngenerators.com:25461/images/9b30cf8b482122fe265dbc008948e284.png" group-title="UK VIP :  SPORTS",UK: Eurosport 1 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089420.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK: Eurosport 2 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/58a39a9cfec5257aa568eb0f31c0be1a.png" group-title="UK VIP :  SPORTS",UK: Eurosport 2 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089421.ts
+#EXTINF:-1 tvg-id="ESUK2" tvg-name="UK: Eurosport 2 HD" tvg-logo="http://vpngenerators.com:25461/images/0eaf70a4356b5606cb8a73d03971b648.png" group-title="UK VIP :  SPORTS",UK: Eurosport 2 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089422.ts
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK: Racing UK HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/378bbd92f759ea861b728f3d72ff02d0.png" group-title="UK VIP :  SPORTS",UK: Racing UK HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089423.ts
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK: Racing UK" tvg-logo="http://vpngenerators.com:25461/images/378bbd92f759ea861b728f3d72ff02d0.png" group-title="UK VIP :  SPORTS",UK: Racing UK
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089424.ts
+#EXTINF:-1 tvg-id="MUTV" tvg-name="UK: MUTV HD" tvg-logo="http://vpngenerators.com:25461/images/67ad9d162673b459864e5fc7614ad7af.png" group-title="UK VIP :  SPORTS",UK: MUTV HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089425.ts
+#EXTINF:-1 tvg-id="LVPOLTV" tvg-name="UK: LiverpoolFCTV" tvg-logo="http://vpngenerators.com:25461/images/047876e6e31dea2866e67cdb8d518a31.png" group-title="UK VIP :  SPORTS",UK: LiverpoolFCTV
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089426.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports 1 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/4dbdbc2c6964f17c94ee8959a604413c.png" group-title="UK VIP :  SPORTS",UK: Viaplay Sports 1 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089427.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports 1 HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/4dbdbc2c6964f17c94ee8959a604413c.png" group-title="UK VIP :  SPORTS",UK: Viaplay Sports 1 HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089428.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports 1" tvg-logo="http://vpngenerators.com:25461/images/4dbdbc2c6964f17c94ee8959a604413c.png" group-title="UK VIP :  SPORTS",UK: Viaplay Sports 1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089429.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports 2 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/4dbdbc2c6964f17c94ee8959a604413c.png" group-title="UK VIP :  SPORTS",UK: Viaplay Sports 2 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089430.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports 2 HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/4dbdbc2c6964f17c94ee8959a604413c.png" group-title="UK VIP :  SPORTS",UK: Viaplay Sports 2 HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089431.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports 2" tvg-logo="http://vpngenerators.com:25461/images/4dbdbc2c6964f17c94ee8959a604413c.png" group-title="UK VIP :  SPORTS",UK: Viaplay Sports 2
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089432.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ViaPlay Xtra HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/7ed80532b3d3760493c7f3ff3b45b7c0.png" group-title="UK VIP :  SPORTS",UK: ViaPlay Xtra HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089433.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ViaPlay Xtra HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/7ed80532b3d3760493c7f3ff3b45b7c0.png" group-title="UK VIP :  SPORTS",UK: ViaPlay Xtra HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089434.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ViaPlay Xtra" tvg-logo="http://vpngenerators.com:25461/images/7ed80532b3d3760493c7f3ff3b45b7c0.png" group-title="UK VIP :  SPORTS",UK: ViaPlay Xtra
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089435.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-name="UK: DAZN 1 HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/d35240298ae6775939c0a2dd5597a758.png" group-title="UK VIP :  SPORTS",UK: DAZN 1 HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089436.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-name="UK: DAZN 1 SD" tvg-logo="http://vpngenerators.com:25461/images/d35240298ae6775939c0a2dd5597a758.png" group-title="UK VIP :  SPORTS",UK: DAZN 1 SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089437.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sporty Stuff HD" tvg-logo="https://www.sportystuff.tv/assets/img/logo-l.png" group-title="UK VIP :  SPORTS",UK: Sporty Stuff HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089438.ts
+#EXTINF:-1 tvg-id="GINXTV" tvg-name="UK: GINX eSports TV" tvg-logo="http://vpngenerators.com:25461/images/550687ae3300ce35ab2ca7f0d13440ae.png" group-title="UK VIP :  SPORTS",UK: GINX eSports TV
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089439.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: PDC Darts 1 (Only Live for Events)" tvg-logo="http://vpngenerators.com:25461/images/43a033de00c5bee957f25d7ed4513ead.png" group-title="UK VIP :  SPORTS",UK: PDC Darts 1 (Only Live for Events)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089440.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: PDC Darts 2 (Only Live for Events)" tvg-logo="http://vpngenerators.com:25461/images/43a033de00c5bee957f25d7ed4513ead.png" group-title="UK VIP :  SPORTS",UK: PDC Darts 2 (Only Live for Events)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089441.ts
+EXTINF:-1 tvg-id="" tvg-name="UK: SIS One" tvg-logo="http://vpngenerators.com:25461/images/53b2f64421cb037404d11730c89b407f.jpg" group-title="UK VIP : Betting",UK: SIS One
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088925.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS Two" tvg-logo="http://vpngenerators.com:25461/images/53b2f64421cb037404d11730c89b407f.jpg" group-title="UK VIP : Betting",UK: SIS Two
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088926.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS Racing" tvg-logo="http://vpngenerators.com:25461/images/53b2f64421cb037404d11730c89b407f.jpg" group-title="UK VIP : Betting",UK: SIS Racing
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088927.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Ladbrokes TV 1" tvg-logo="http://vpngenerators.com:25461/images/c0320778088528c69d94d3559d1771c2.png" group-title="UK VIP : Betting",UK: Ladbrokes TV 1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088928.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Ladbrokes TV 2" tvg-logo="http://vpngenerators.com:25461/images/c0320778088528c69d94d3559d1771c2.png" group-title="UK VIP : Betting",UK: Ladbrokes TV 2
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088929.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Ladbrokes TV 3" tvg-logo="http://vpngenerators.com:25461/images/c0320778088528c69d94d3559d1771c2.png" group-title="UK VIP : Betting",UK: Ladbrokes TV 3
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088930.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Coral TV 1" tvg-logo="http://vpngenerators.com:25461/images/1832e421c0740eedb461dc16c4f8414b.png" group-title="UK VIP : Betting",UK: Coral TV 1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088931.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Coral TV 2" tvg-logo="http://vpngenerators.com:25461/images/1832e421c0740eedb461dc16c4f8414b.png" group-title="UK VIP : Betting",UK: Coral TV 2
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088932.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Paddy Power TV 1" tvg-logo="http://vpngenerators.com:25461/images/f6c68efefecf7cbe64b45d0b2edda6c8.png" group-title="UK VIP : Betting",UK: Paddy Power TV 1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088933.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Paddy Power TV 2" tvg-logo="http://vpngenerators.com:25461/images/f6c68efefecf7cbe64b45d0b2edda6c8.png" group-title="UK VIP : Betting",UK: Paddy Power TV 2
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088934.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Paddy Power TV 3" tvg-logo="http://vpngenerators.com:25461/images/f6c68efefecf7cbe64b45d0b2edda6c8.png" group-title="UK VIP : Betting",UK: Paddy Power TV 3
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088935.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill BTV" tvg-logo="http://vpngenerators.com:25461/images/78a693de3de393fb973a8dad2aecf9ee.jpg" group-title="UK VIP : Betting",UK: William Hill BTV
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088936.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill BTV 2" tvg-logo="http://vpngenerators.com:25461/images/78a693de3de393fb973a8dad2aecf9ee.jpg" group-title="UK VIP : Betting",UK: William Hill BTV 2
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088937.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill TV 1" tvg-logo="http://vpngenerators.com:25461/images/78a693de3de393fb973a8dad2aecf9ee.jpg" group-title="UK VIP : Betting",UK: William Hill TV 1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088938.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill TV 2" tvg-logo="http://vpngenerators.com:25461/images/78a693de3de393fb973a8dad2aecf9ee.jpg" group-title="UK VIP : Betting",UK: William Hill TV 2
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088939.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Bet Motor" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: Sky Bet Motor
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088940.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Bet Speedway" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: Sky Bet Speedway
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088941.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Bet Horse Racing" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: Sky Bet Horse Racing
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088942.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Bet Horse Jumps" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: Sky Bet Horse Jumps
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088943.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Bet Greyhounds" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: Sky Bet Greyhounds
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088944.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Bet Football" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: Sky Bet Football
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088945.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill Horse racing" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: William Hill Horse racing
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088946.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill Horse jumps" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: William Hill Horse jumps
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088947.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Williamhill Horse flatssprints" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: Williamhill Horse flatssprints
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088948.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill dogs jumps" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: William Hill dogs jumps
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088949.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: William Hill dogs flats" tvg-logo="http://vpngenerators.com:25461/images/50cdb741e844e737677673d5fd6bd8b4.jpg" group-title="UK VIP : Betting",UK: William Hill dogs flats
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088950.ts
+
+#EXTINF:-1 tvg-id="BBC1" tvg-name="UK: BBC One HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/62d53cbc9afa12f742017639555a6f0c.png" group-title="UK VIP : Entertainment",UK: BBC One HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088983.ts
+#EXTINF:-1 tvg-id="BBC1SCO" tvg-name="UK: BBC One Scotland HD" tvg-logo="http://vpngenerators.com:25461/images/184df631709dbc02db1a43073d01dd77.png" group-title="UK VIP : Entertainment",UK: BBC One Scotland HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088986.ts
+#EXTINF:-1 tvg-id="BBC1NI" tvg-name="UK: BBC One Northern Ireland HD" tvg-logo="http://vpngenerators.com:25461/images/160e44ba406dca453d3a247178f1751c.png" group-title="UK VIP : Entertainment",UK: BBC One Northern Ireland HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088987.ts
+#EXTINF:-1 tvg-id="UK| BBC TWO ENGLAND" tvg-name="UK: BBC Two HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/a1a3f3ff6adb75c84fd9a26c8959f2ae.png" group-title="UK VIP : Entertainment",UK: BBC Two HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088988.ts
+#EXTINF:-1 tvg-id="UK| BBC TWO ENGLAND" tvg-name="UK: BBC Two HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/a1a3f3ff6adb75c84fd9a26c8959f2ae.png" group-title="UK VIP : Entertainment",UK: BBC Two HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088989.ts
+#EXTINF:-1 tvg-id="BBC3" tvg-name="UK: BBC Three HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/95bf6ef010441281c83eb776aaede25b.png" group-title="UK VIP : Entertainment",UK: BBC Three HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088990.ts
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK: CBBC HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/d956d2ee1583569d5452edb0984ecd9b.png" group-title="UK VIP : Entertainment",UK: CBBC HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088991.ts
+#EXTINF:-1 tvg-id="CBBC" tvg-name="UK: CBBC HD" tvg-logo="http://vpngenerators.com:25461/images/d956d2ee1583569d5452edb0984ecd9b.png" group-title="UK VIP : Entertainment",UK: CBBC HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088992.ts
+#EXTINF:-1 tvg-id="BBC4" tvg-name="UK: BBC Four HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/7d00ccc33603d2edb103476c4531b106.png" group-title="UK VIP : Entertainment",UK: BBC Four HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088993.ts
+#EXTINF:-1 tvg-id="CHNNL4" tvg-name="UK: Channel 4 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/d3f9d61c8e0ddf02c0fd2a130c4a7029.png" group-title="UK VIP : Entertainment",UK: Channel 4 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088994.ts
+#EXTINF:-1 tvg-id="CHNNL4" tvg-name="UK: Channel 4 HD" tvg-logo="http://vpngenerators.com:25461/images/7f18e058c21dad70d1a79220d58a0e73.png" group-title="UK VIP : Entertainment",UK: Channel 4 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088995.ts
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="UK: Channel 5 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/51eab210978942c6af3a18f7b529a864.png" group-title="UK VIP : Entertainment",UK: Channel 5 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088996.ts
+#EXTINF:-1 tvg-id="CHNNL5" tvg-name="UK: Channel 5 HD" tvg-logo="http://vpngenerators.com:25461/images/d94cbbc67054c093930ae500a8b937cd.png" group-title="UK VIP : Entertainment",UK: Channel 5 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088997.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK: ITV HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/23e524d365ad4eba74be11f6e202c8ce.png" group-title="UK VIP : Entertainment",UK: ITV HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088998.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK: ITV 2 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/8054570bb35bfe9514d7678c07c52515.png" group-title="UK VIP : Entertainment",UK: ITV 2 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20088999.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK: ITV 3 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/a1370421d9a954aa18aaa5e2dc531b5a.png" group-title="UK VIP : Entertainment",UK: ITV 3 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089000.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK: ITV 4 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/0d94ddc3a3b512338a7fadd941b3beee.png" group-title="UK VIP : Entertainment",UK: ITV 4 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089001.ts
+#EXTINF:-1 tvg-id="ITVBEUK" tvg-name="UK: ITVBe HD" tvg-logo="http://vpngenerators.com:25461/images/e447f4466444273df37e051b9c600153.png" group-title="UK VIP : Entertainment",UK: ITVBe HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089002.ts
+#EXTINF:-1 tvg-id="MORE4" tvg-name="UK: More 4 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/5d34b56e75831286b04cefbbd20d2e2c.png" group-title="UK VIP : Entertainment",UK: More 4 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089003.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK: Film4 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/21058c39086f6308b16c2a0d707abe0f.png" group-title="UK VIP : Entertainment",UK: Film4 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089004.ts
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK: Sky Max HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/b2b1710776c01fdf40dd2e4f5a438362.png" group-title="UK VIP : Entertainment",UK: Sky Max HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089005.ts
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK: Sky Max HD" tvg-logo="http://vpngenerators.com:25461/images/b2b1710776c01fdf40dd2e4f5a438362.png" group-title="UK VIP : Entertainment",UK: Sky Max HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089006.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Showcase HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/041f28285d5d4c81711c70effaaf6af5.png" group-title="UK VIP : Entertainment",UK: Sky Showcase HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089007.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Showcase HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/041f28285d5d4c81711c70effaaf6af5.png" group-title="UK VIP : Entertainment",UK: Sky Showcase HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089008.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/4d1cce2fa1f770074fbd6786f61d109f.png" group-title="UK VIP : Entertainment",UK: Sky Atlantic HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089009.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK: Sky Atlantic HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/4d1cce2fa1f770074fbd6786f61d109f.png" group-title="UK VIP : Entertainment",UK: Sky Atlantic HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089010.ts
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK: Sky Witness HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/50698a610296dfafa3a2e042db4971fb.png" group-title="UK VIP : Entertainment",UK: Sky Witness HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089011.ts
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK: Sky Arts HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/6ee24bf318912746639b85e7711d1b2e.png" group-title="UK VIP : Entertainment",UK: Sky Arts HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089012.ts
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK: Sky Crime HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/8bb3ba503546d0ff993289612d0e8fec.png" group-title="UK VIP : Entertainment",UK: Sky Crime HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089013.ts
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK: Sky Crime HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/8bb3ba503546d0ff993289612d0e8fec.png" group-title="UK VIP : Entertainment",UK: Sky Crime HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089014.ts
+#EXTINF:-1 tvg-id="UK| SKY CINEMA SCI-FI" tvg-name="UK: Sky Sci-Fi HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/430ffeefa4d2cea0193f2d41e7a58a93.png" group-title="UK VIP : Entertainment",UK: Sky Sci-Fi HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089015.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK: Alibi HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/d820594086dc8b8dc039683ef52db7fc.png" group-title="UK VIP : Entertainment",UK: Alibi HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089016.ts
+#EXTINF:-1 tvg-id="SKYCMSD" tvg-name="UK: Sky Comedy HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/aad827e7b6e6247b7d78881ab57f7fb4.png" group-title="UK VIP : Entertainment",UK: Sky Comedy HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089017.ts
+#EXTINF:-1 tvg-id="DCCLSEH" tvg-name="UK: Comedy Central HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/df9da6479809230d69d4246bee17a266.png" group-title="UK VIP : Entertainment",UK: Comedy Central HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089018.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK: Dave HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/836c9c78ef857171ff2985dc777920a6.png" group-title="UK VIP : Entertainment",UK: Dave HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089019.ts
+#EXTINF:-1 tvg-id="TG4.ie" tvg-name="UK: TG4 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/f5fbb96a476eea1fb25c082929280995.png" group-title="UK VIP : Entertainment",UK: TG4 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089020.ts
+#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-name="UK: Virgin One HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/c85e902494c636d4f3d2f7b14dd1b4c2.png" group-title="UK VIP : Entertainment",UK: Virgin One HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089021.ts
+#EXTINF:-1 tvg-id="VirginMediaTwo.ie" tvg-name="UK: Virgin Two HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/03b43d05be5b9d439fb277ce441d2d6e.png" group-title="UK VIP : Entertainment",UK: Virgin Two HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089022.ts
+#EXTINF:-1 tvg-id="E4" tvg-name="UK: E4 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/cba7e22fe98ccfd06fb6f3decc90d5d5.png" group-title="UK VIP : Entertainment",UK: E4 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089023.ts
+#EXTINF:-1 tvg-id="MTVUKHD" tvg-name="UK: MTV HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/9439e7ccc8e2b416a8ed4853216ea64c.png" group-title="UK VIP : Entertainment",UK: MTV HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089024.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE 1 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/b76315c5891dad8ec809b1cbbdc4302c.png" group-title="UK VIP : Entertainment",UK: RTE 1 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089025.ts
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="UK: RTE 1 HD" tvg-logo="http://vpngenerators.com:25461/images/b76315c5891dad8ec809b1cbbdc4302c.png" group-title="UK VIP : Entertainment",UK: RTE 1 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089026.ts
+#EXTINF:-1 tvg-id="RTETwo.ie" tvg-name="UK: RTE 2 HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/fd2b86a971148a505476a80cfb840ea7.png" group-title="UK VIP : Entertainment",UK: RTE 2 HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089027.ts
+#EXTINF:-1 tvg-id="RTE2" tvg-name="UK: RTE 2 HD" tvg-logo="http://vpngenerators.com:25461/images/fd2b86a971148a505476a80cfb840ea7.png" group-title="UK VIP : Entertainment",UK: RTE 2 HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089028.ts
+#EXTINF:-1 tvg-id="TLCUNK" tvg-name="UK: TLC HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/ef5b705d9fbf6376923aa90362f68252.png" group-title="UK VIP : Entertainment",UK: TLC HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089029.ts
+#EXTINF:-1 tvg-id="TLCUNK" tvg-name="UK: TLC HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/ef5b705d9fbf6376923aa90362f68252.png" group-title="UK VIP : Entertainment",UK: TLC HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089030.ts
+#EXTINF:-1 tvg-id="WUKTVHD" tvg-name="UK: W HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/8e2788441cd3013895a92e4662778d2c.png" group-title="UK VIP : Entertainment",UK: W HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089031.ts
+#EXTINF:-1 tvg-id="WUKTVHD" tvg-name="UK: W" tvg-logo="http://vpngenerators.com:25461/images/8e2788441cd3013895a92e4662778d2c.png" group-title="UK VIP : Entertainment",UK: W
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089032.ts
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK: STV HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/408c101622e2c359f063da20d362e262.png" group-title="UK VIP : Entertainment",UK: STV HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089033.ts
+#EXTINF:-1 tvg-id="S4CD" tvg-name="UK: S4C HD" tvg-logo="http://vpngenerators.com:25461/images/bb54a5e0f29bbc3da33985c2793fe459.png" group-title="UK VIP : Entertainment",UK: S4C HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089034.ts
+#EXTINF:-1 tvg-id="EENTVMC" tvg-name="UK: E! HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/187e65a98a44044bd61adf79e0a4b8ef.png" group-title="UK VIP : Entertainment",UK: E! HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089035.ts
+#EXTINF:-1 tvg-id="GOLDE" tvg-name="UK: Gold HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/a8a5e08bbfdbd9dcbac0bfef7b1f9b27.png" group-title="UK VIP : Entertainment",UK: Gold HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089036.ts
+#EXTINF:-1 tvg-id="QUEST" tvg-name="UK: Quest HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/03f9c6842190a8a85f611b6e3c63c082.png" group-title="UK VIP : Entertainment",UK: Quest HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089037.ts
+#EXTINF:-1 tvg-id="E4P1" tvg-name="UK: E4 Extra" tvg-logo="http://vpngenerators.com:25461/images/cd0cce9484e0ec810249fbac87df5730.png" group-title="UK VIP : Entertainment",UK: E4 Extra
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089038.ts
+#EXTINF:-1 tvg-id="PICKTV" tvg-name="UK: Pick HD (1080P)" tvg-logo="http://vpngenerators.com:25461/images/841313ac0135faf5cc78d14b729f5b4f.png" group-title="UK VIP : Entertainment",UK: Pick HD (1080P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089039.ts
+#EXTINF:-1 tvg-id="TCMESP1" tvg-name="UK: TCM +1" tvg-logo="http://vpngenerators.com:25461/images/267809ffac487254773433bed5c86285.png" group-title="UK VIP : Entertainment",UK: TCM +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089040.ts
+#EXTINF:-1 tvg-id="BBC1" tvg-name="UK: BBC One SD" tvg-logo="http://vpngenerators.com:25461/images/160e44ba406dca453d3a247178f1751c.png" group-title="UK VIP : Entertainment",UK: BBC One SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089041.ts
+#EXTINF:-1 tvg-id="BBC3" tvg-name="UK: BBC Three" tvg-logo="http://vpngenerators.com:25461/images/e075951e4b18cec65c51229bde1640d0.png" group-title="UK VIP : Entertainment",UK: BBC Three
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089042.ts
+#EXTINF:-1 tvg-id="BBC4" tvg-name="UK: BBC Four SD" tvg-logo="http://vpngenerators.com:25461/images/f2815bec95eeb4fbae5ca0343aecec71.png" group-title="UK VIP : Entertainment",UK: BBC Four SD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089043.ts
+#EXTINF:-1 tvg-id="BBCALBA" tvg-name="UK: BBC Alba" tvg-logo="http://vpngenerators.com:25461/images/ec78990271d278bc255569ef88b1917d.png" group-title="UK VIP : Entertainment",UK: BBC Alba
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089044.ts
+#EXTINF:-1 tvg-id="CHNNL4" tvg-name="UK: Channel 4" tvg-logo="http://vpngenerators.com:25461/images/7f18e058c21dad70d1a79220d58a0e73.png" group-title="UK VIP : Entertainment",UK: Channel 4
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089045.ts
+#EXTINF:-1 tvg-id="C4IREP1" tvg-name="UK: Channel 4 +1" tvg-logo="http://vpngenerators.com:25461/images/575ccf4dbd49d50ea6a178e8d1b7bded.png" group-title="UK VIP : Entertainment",UK: Channel 4 +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089046.ts
+#EXTINF:-1 tvg-id="CHNNL5" tvg-name="UK: Channel 5" tvg-logo="http://vpngenerators.com:25461/images/d94cbbc67054c093930ae500a8b937cd.png" group-title="UK VIP : Entertainment",UK: Channel 5
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089047.ts
+#EXTINF:-1 tvg-id="CHNNL5" tvg-name="UK: Channel 5 +1" tvg-logo="http://vpngenerators.com:25461/images/e1366c6ebf608e39f0818cdb52fd399b.png" group-title="UK VIP : Entertainment",UK: Channel 5 +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089048.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK: ITV +1" tvg-logo="http://vpngenerators.com:25461/images/19b4e494f53466cc37ca1c5846c85e5a.png" group-title="UK VIP : Entertainment",UK: ITV +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089049.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK: ITV 2" tvg-logo="http://vpngenerators.com:25461/images/1d8820fe1fa0db7cede5ff275d35a986.png" group-title="UK VIP : Entertainment",UK: ITV 2
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089050.ts
+#EXTINF:-1 tvg-id="ITV2P1" tvg-name="UK: ITV2 +1" tvg-logo="http://vpngenerators.com:25461/images/14c49e8e465b95d997461ee28955d502.png" group-title="UK VIP : Entertainment",UK: ITV2 +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089051.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK: ITV 3" tvg-logo="http://vpngenerators.com:25461/images/a31649c0d29f5c87d02a7ae0b36d90ad.png" group-title="UK VIP : Entertainment",UK: ITV 3
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089052.ts
+#EXTINF:-1 tvg-id="ITV3P1" tvg-name="UK: ITV3 +1" tvg-logo="http://vpngenerators.com:25461/images/4128edc36ec1f84fda9220eaaf2d0152.png" group-title="UK VIP : Entertainment",UK: ITV3 +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089053.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK: ITV 4" tvg-logo="http://vpngenerators.com:25461/images/855916e7c22ae500aabb9e03c07d5a64.png" group-title="UK VIP : Entertainment",UK: ITV 4
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089054.ts
+#EXTINF:-1 tvg-id="ITV4P1" tvg-name="UK: ITV4 +1" tvg-logo="http://vpngenerators.com:25461/images/4e0075cf1e84f358a3e534f7436e9894.png" group-title="UK VIP : Entertainment",UK: ITV4 +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089055.ts
+#EXTINF:-1 tvg-id="ITVBEUK" tvg-name="UK: ITVBe" tvg-logo="http://vpngenerators.com:25461/images/e447f4466444273df37e051b9c600153.png" group-title="UK VIP : Entertainment",UK: ITVBe
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089056.ts
+#EXTINF:-1 tvg-id="MORE4" tvg-name="UK: More 4" tvg-logo="http://vpngenerators.com:25461/images/5c32f1c6ab496d679fdd5616f6f6d564.png" group-title="UK VIP : Entertainment",UK: More 4
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089057.ts
+#EXTINF:-1 tvg-id="MORE4P1" tvg-name="UK: More4 +1" tvg-logo="http://vpngenerators.com:25461/images/12402f9eccc97751a8f609374fdeeeee.png" group-title="UK VIP : Entertainment",UK: More4 +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089058.ts
+#EXTINF:-1 tvg-id="FILM4UK" tvg-name="UK: Film4" tvg-logo="http://vpngenerators.com:25461/images/b6aa8c2d21027c8c60e12d2b329f748a.png" group-title="UK VIP : Entertainment",UK: Film4
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089059.ts
+#EXTINF:-1 tvg-id="FILM41" tvg-name="UK: Film4 +1" tvg-logo="http://vpngenerators.com:25461/images/9a8b995c6cf73317d170573438b04e65.png" group-title="UK VIP : Entertainment",UK: Film4 +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089060.ts
+#EXTINF:-1 tvg-id="SKYREP" tvg-name="UK: Sky Replay" tvg-logo="http://vpngenerators.com:25461/images/535603a2c707ffcb4e42f2acaf7ad8b7.png" group-title="UK VIP : Entertainment",UK: Sky Replay
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089061.ts
+#EXTINF:-1 tvg-id="SKYATP1U" tvg-name="UK: Sky Atlantic +1" tvg-logo="http://vpngenerators.com:25461/images/e2c13655e4a405e0583066780326e37b.png" group-title="UK VIP : Entertainment",UK: Sky Atlantic +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089062.ts
+#EXTINF:-1 tvg-id="SKYWITN" tvg-name="UK: Sky Witness" tvg-logo="http://vpngenerators.com:25461/images/50698a610296dfafa3a2e042db4971fb.png" group-title="UK VIP : Entertainment",UK: Sky Witness
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089063.ts
+#EXTINF:-1 tvg-id="SKYART1" tvg-name="UK: Sky Arts" tvg-logo="http://vpngenerators.com:25461/images/4f06452e0648704b7656d0754897a8b8.png" group-title="UK VIP : Entertainment",UK: Sky Arts
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089064.ts
+#EXTINF:-1 tvg-id="SKCRP1" tvg-name="UK: Sky Crime +1" tvg-logo="http://vpngenerators.com:25461/images/8bb3ba503546d0ff993289612d0e8fec.png" group-title="UK VIP : Entertainment",UK: Sky Crime +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089065.ts
+#EXTINF:-1 tvg-id="UK| SKY CINEMA SCI-FI" tvg-name="UK: Sky Sci-Fi" tvg-logo="http://vpngenerators.com:25461/images/430ffeefa4d2cea0193f2d41e7a58a93.png" group-title="UK VIP : Entertainment",UK: Sky Sci-Fi
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089066.ts
+#EXTINF:-1 tvg-id="ALIBI" tvg-name="UK: Alibi" tvg-logo="http://vpngenerators.com:25461/images/ea51bc8c1c9535730d8e353a094d26d6.png" group-title="UK VIP : Entertainment",UK: Alibi
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089067.ts
+#EXTINF:-1 tvg-id="ALIBIP1" tvg-name="UK: Alibi +1" tvg-logo="http://vpngenerators.com:25461/images/259d8825caf82a54e736bb892cc3aa5b.png" group-title="UK VIP : Entertainment",UK: Alibi +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089068.ts
+#EXTINF:-1 tvg-id="COMCIRE" tvg-name="UK: Comedy Central" tvg-logo="http://vpngenerators.com:25461/images/824bb4f14ff05f9c0c905219f346e745.png" group-title="UK VIP : Entertainment",UK: Comedy Central
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089069.ts
+#EXTINF:-1 tvg-id="COMCNP1" tvg-name="UK: Comedy Central +1" tvg-logo="http://vpngenerators.com:25461/images/824bb4f14ff05f9c0c905219f346e745.png" group-title="UK VIP : Entertainment",UK: Comedy Central +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089070.ts
+#EXTINF:-1 tvg-id="COMCNX" tvg-name="UK: Comedy Central Xtra" tvg-logo="http://vpngenerators.com:25461/images/dfb7d368b57ff2ab32c62eee2fdfc941.png" group-title="UK VIP : Entertainment",UK: Comedy Central Xtra
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089071.ts
+#EXTINF:-1 tvg-id="DAVE" tvg-name="UK: Dave" tvg-logo="http://vpngenerators.com:25461/images/7ba1275eb408dff4f6132c00fa81842f.png" group-title="UK VIP : Entertainment",UK: Dave
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089072.ts
+#EXTINF:-1 tvg-id="DAVEJV" tvg-name="UK: Dave ja vu" tvg-logo="http://vpngenerators.com:25461/images/3a80d7e9c83c40190a4112c3aff0d5c5.png" group-title="UK VIP : Entertainment",UK: Dave ja vu
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089073.ts
+#EXTINF:-1 tvg-id="TG4" tvg-name="UK: TG4" tvg-logo="http://vpngenerators.com:25461/images/398be6d8a99fc55ae9122510c6190a31.png" group-title="UK VIP : Entertainment",UK: TG4
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089074.ts
+#EXTINF:-1 tvg-id="VM1IRE" tvg-name="UK: Virgin One" tvg-logo="http://vpngenerators.com:25461/images/cfa1b2da6925b98b9b82a43ddd42522f.png" group-title="UK VIP : Entertainment",UK: Virgin One
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089075.ts
+#EXTINF:-1 tvg-id="VM2IRE" tvg-name="UK: Virgin Two" tvg-logo="http://vpngenerators.com:25461/images/f247f2a9fe4d9f0264f38c1218254d05.png" group-title="UK VIP : Entertainment",UK: Virgin Two
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089076.ts
+#EXTINF:-1 tvg-id="VM3IRE" tvg-name="UK: Virgin Three" tvg-logo="http://vpngenerators.com:25461/images/a3bb5f67e9bc731aaa76704663c11863.png" group-title="UK VIP : Entertainment",UK: Virgin Three
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089077.ts
+#EXTINF:-1 tvg-id="E4" tvg-name="UK: E4" tvg-logo="http://vpngenerators.com:25461/images/7962d77202c0e95fc331217c8c1dc1a5.png" group-title="UK VIP : Entertainment",UK: E4
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089078.ts
+#EXTINF:-1 tvg-id="E4P1" tvg-name="UK: E4 +1" tvg-logo="http://vpngenerators.com:25461/images/7962d77202c0e95fc331217c8c1dc1a5.png" group-title="UK VIP : Entertainment",UK: E4 +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089079.ts
+#EXTINF:-1 tvg-id="UTV" tvg-name="UK: UTV" tvg-logo="http://vpngenerators.com:25461/images/7472c219cb5b0953f629319b1fcd5a0d.png" group-title="UK VIP : Entertainment",UK: UTV
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089080.ts
+#EXTINF:-1 tvg-id="MTVLAHE" tvg-name="UK: MTV" tvg-logo="http://vpngenerators.com:25461/images/4bc40ac812bd04ee8a30b2c3b151022f.png" group-title="UK VIP : Entertainment",UK: MTV
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089081.ts
+#EXTINF:-1 tvg-id="RTE1PL1" tvg-name="UK: RTE 1 +1" tvg-logo="http://vpngenerators.com:25461/images/ff146b3c22107f0a12eecdc1dc910d3a.png" group-title="UK VIP : Entertainment",UK: RTE 1 +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089082.ts
+#EXTINF:-1 tvg-id="RTE2P1" tvg-name="UK: RTE 2 +1" tvg-logo="http://vpngenerators.com:25461/images/87f1943abe65dbaac893f339886d4cbe.png" group-title="UK VIP : Entertainment",UK: RTE 2 +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089083.ts
+#EXTINF:-1 tvg-id="4SEVEN" tvg-name="UK: 4Seven" tvg-logo="http://vpngenerators.com:25461/images/960c77d8a699db6de01e54be80b7f382.png" group-title="UK VIP : Entertainment",UK: 4Seven
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089084.ts
+#EXTINF:-1 tvg-id="TLCUNK" tvg-name="UK: TLC" tvg-logo="http://vpngenerators.com:25461/images/eb7307b852b2d6805b624f4c45ae36cb.png" group-title="UK VIP : Entertainment",UK: TLC
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089085.ts
+#EXTINF:-1 tvg-id="TLCUNK1" tvg-name="UK: TLC +1" tvg-logo="http://vpngenerators.com:25461/images/875e36d5fc1423edcbbc2b0509d6a91e.png" group-title="UK VIP : Entertainment",UK: TLC +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089086.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: 5Action" tvg-logo="http://vpngenerators.com:25461/images/9bab68de8569998eba70bf4aabd252b7.png" group-title="UK VIP : Entertainment",UK: 5Action
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089087.ts
+#EXTINF:-1 tvg-id="WUKTVP1" tvg-name="UK: W +1" tvg-logo="http://vpngenerators.com:25461/images/c85361e72b81953a0d7ec1daca129c20.png" group-title="UK VIP : Entertainment",UK: W +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089088.ts
+#EXTINF:-1 tvg-id="S4CD" tvg-name="UK: S4C" tvg-logo="http://vpngenerators.com:25461/images/bb54a5e0f29bbc3da33985c2793fe459.png" group-title="UK VIP : Entertainment",UK: S4C
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089089.ts
+#EXTINF:-1 tvg-id="EENTVMC" tvg-name="UK: E!" tvg-logo="http://vpngenerators.com:25461/images/187e65a98a44044bd61adf79e0a4b8ef.png" group-title="UK VIP : Entertainment",UK: E!
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089090.ts
+#EXTINF:-1 tvg-id="GOLDE" tvg-name="UK: Gold" tvg-logo="http://vpngenerators.com:25461/images/a8a5e08bbfdbd9dcbac0bfef7b1f9b27.png" group-title="UK VIP : Entertainment",UK: Gold
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089091.ts
+#EXTINF:-1 tvg-id="GOLDP1" tvg-name="UK: Gold +1" tvg-logo="http://vpngenerators.com:25461/images/a8a5e08bbfdbd9dcbac0bfef7b1f9b27.png" group-title="UK VIP : Entertainment",UK: Gold +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089092.ts
+#EXTINF:-1 tvg-id="HGTVUK" tvg-name="UK: HGTV" tvg-logo="http://vpngenerators.com:25461/images/c633e09e94a3aa143b37d5d338cf8f4c.png" group-title="UK VIP : Entertainment",UK: HGTV
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089093.ts
+#EXTINF:-1 tvg-id="HGTVUP1" tvg-name="UK: HGTV +1" tvg-logo="http://vpngenerators.com:25461/images/c8ccf877801dd006fb6856427d4b97b9.png" group-title="UK VIP : Entertainment",UK: HGTV +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089094.ts
+#EXTINF:-1 tvg-id="FOODNET" tvg-name="UK: Food Network" tvg-logo="http://vpngenerators.com:25461/images/3111ff45b95a66cf3c57682d97a99369.png" group-title="UK VIP : Entertainment",UK: Food Network
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089095.ts
+#EXTINF:-1 tvg-id="FOODNP1" tvg-name="UK: Food Network +1" tvg-logo="http://vpngenerators.com:25461/images/e164effbe89a32da97b4f8a15fb1ec51.png" group-title="UK VIP : Entertainment",UK: Food Network +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089096.ts
+#EXTINF:-1 tvg-id="FOODNP1" tvg-name="UK: Food xp" tvg-logo="http://vpngenerators.com:25461/images/905330d05c35e207ee2abaf6e0a0904d.png" group-title="UK VIP : Entertainment",UK: Food xp
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089097.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Reality Xtra" tvg-logo="http://vpngenerators.com:25461/images/8134e7e7f105662f9314065dcf07b1ef.png" group-title="UK VIP : Entertainment",UK: Reality Xtra
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089098.ts
+#EXTINF:-1 tvg-id="CBSRELT" tvg-name="UK: CBS Reality" tvg-logo="http://vpngenerators.com:25461/images/2f598cf534565b339853bc2ffd45a4fb.png" group-title="UK VIP : Entertainment",UK: CBS Reality
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089099.ts
+#EXTINF:-1 tvg-id="CBSREL1" tvg-name="UK: CBS Reality +1" tvg-logo="http://vpngenerators.com:25461/images/2f598cf534565b339853bc2ffd45a4fb.png" group-title="UK VIP : Entertainment",UK: CBS Reality +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089100.ts
+#EXTINF:-1 tvg-id="DRAMAUK" tvg-name="UK: Drama" tvg-logo="http://vpngenerators.com:25461/images/5c77b6210b296af7e5aab348ea50e84c.png" group-title="UK VIP : Entertainment",UK: Drama
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089101.ts
+#EXTINF:-1 tvg-id="DRAVMP1" tvg-name="UK: Drama +1" tvg-logo="http://vpngenerators.com:25461/images/5c77b6210b296af7e5aab348ea50e84c.png" group-title="UK VIP : Entertainment",UK: Drama +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089102.ts
+#EXTINF:-1 tvg-id="DMAXE" tvg-name="UK: Dmax" tvg-logo="http://vpngenerators.com:25461/images/3149a3ae6807e1aaf25c21b3ff70c9b4.png" group-title="UK VIP : Entertainment",UK: Dmax
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089103.ts
+#EXTINF:-1 tvg-id="uk.DMAX+1" tvg-name="UK: Dmax+1" tvg-logo="http://vpngenerators.com:25461/images/3149a3ae6807e1aaf25c21b3ff70c9b4.png" group-title="UK VIP : Entertainment",UK: Dmax+1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089104.ts
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="UK: Really" tvg-logo="http://vpngenerators.com:25461/images/4e50dba4d73df8006253f8c549fc1cad.png" group-title="UK VIP : Entertainment",UK: Really
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089105.ts
+#EXTINF:-1 tvg-id="PICKTV" tvg-name="UK: Pick" tvg-logo="http://vpngenerators.com:25461/images/841313ac0135faf5cc78d14b729f5b4f.png" group-title="UK VIP : Entertainment",UK: Pick
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089106.ts
+#EXTINF:-1 tvg-id="HORSEC" tvg-name="UK: Horse & Country" tvg-logo="http://vpngenerators.com:25461/images/613f0d986667119449937623dcde90c9.png" group-title="UK VIP : Entertainment",UK: Horse & Country
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089107.ts
+#EXTINF:-1 tvg-id="QUEST" tvg-name="UK: Quest" tvg-logo="http://vpngenerators.com:25461/images/03f9c6842190a8a85f611b6e3c63c082.png" group-title="UK VIP : Entertainment",UK: Quest
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089108.ts
+#EXTINF:-1 tvg-id="QUESTP1" tvg-name="UK: Quest +1" tvg-logo="http://vpngenerators.com:25461/images/989ad625fc6b8b50184cb43e77276ae6.png" group-title="UK VIP : Entertainment",UK: Quest +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089109.ts
+#EXTINF:-1 tvg-id="QREDUK" tvg-name="UK: Quest Red" tvg-logo="http://vpngenerators.com:25461/images/6d0c14ad4d861aee08fb64f9c74dd397.png" group-title="UK VIP : Entertainment",UK: Quest Red
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089110.ts
+#EXTINF:-1 tvg-id="QREDUK1" tvg-name="UK: Quest Red +1" tvg-logo="http://vpngenerators.com:25461/images/4a4eb60c81955467cdcccefef275ee88.png" group-title="UK VIP : Entertainment",UK: Quest Red +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089111.ts
+#EXTINF:-1 tvg-id="5SELECT" tvg-name="UK: 5Select" tvg-logo="http://vpngenerators.com:25461/images/01990e959186f615f661e59236c6872c.png" group-title="UK VIP : Entertainment",UK: 5Select
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089112.ts
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK: 5 USA" tvg-logo="http://vpngenerators.com:25461/images/0eefe17c954f47764cc2b9a80bf5b68f.png" group-title="UK VIP : Entertainment",UK: 5 USA
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089113.ts
+#EXTINF:-1 tvg-id="5USAP1" tvg-name="UK: 5 USA +1" tvg-logo="http://fanc.tmsimg.com/assets/s56890_ll_h3_ag.png" group-title="UK VIP : Entertainment",UK: 5 USA +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089114.ts
+#EXTINF:-1 tvg-id="5ST" tvg-name="UK: 5 Star" tvg-logo="http://vpngenerators.com:25461/images/1d2c8501eed294a0dc28fab36d46e85f.png" group-title="UK VIP : Entertainment",UK: 5 Star
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089115.ts
+#EXTINF:-1 tvg-id="5STAP1" tvg-name="UK: 5 Star +1" tvg-logo="http://vpngenerators.com:25461/images/1f39463df1cd3296c306ac850bc64305.png" group-title="UK VIP : Entertainment",UK: 5 Star +1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089116.ts
+#EXTINF:-1 tvg-id="CHALL" tvg-name="UK: Challenge TV" tvg-logo="http://vpngenerators.com:25461/images/4b2d9f69f91aef38502b577b8d62f06f.png" group-title="UK VIP : Entertainment",UK: Challenge TV
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089117.ts
+#EXTINF:-1 tvg-id="LONLIVE" tvg-name="UK: London Live" tvg-logo="http://vpngenerators.com:25461/images/47f218edb3d39d6cee91c0069efd8643.png" group-title="UK VIP : Entertainment",UK: London Live
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089118.ts
+#EXTINF:-1 tvg-id="Live360.uk" tvg-name="UK: Live 360" tvg-logo="http://vpngenerators.com:25461/images/1b53799e1aa9c3a3532b02df7b5ce887.jpg" group-title="UK VIP : Entertainment",UK: Live 360
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089119.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Together TV" tvg-logo="http://vpngenerators.com:25461/images/d0f32aa8bde2cca3664a796a272a7376.png" group-title="UK VIP : Entertainment",UK: Together TV
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089120.ts
+#EXTINF:-1 tvg-id="uk.Crime+Inv" tvg-name="UK: Crime & Investigation" tvg-logo="http://vpngenerators.com:25461/images/adb35d0bc5da890fdd8a4b57c6846dbc.png" group-title="UK VIP : Entertainment",UK: Crime & Investigation
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089121.ts
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK: STV HD (720P)" tvg-logo="http://vpngenerators.com:25461/images/408c101622e2c359f063da20d362e262.png" group-title="UK VIP : Entertainment",UK: STV HD (720P)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089122.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Virgin Four" tvg-logo="http://vpngenerators.com:25461/images/bc66b05a939b479193818b0aa9e2ae38.png" group-title="UK VIP : Entertainment",UK: Virgin Four
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089123.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sony Max" tvg-logo="http://vpngenerators.com:25461/images/c2ddc80489920fbdb10a6a61d3155a1a.png" group-title="UK VIP : Entertainment",UK: Sony Max
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089124.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Legend" tvg-logo="http://vpngenerators.com:25461/images/83c06330c1fd3568d1880e90dfc8b02b.png" group-title="UK VIP : Entertainment",UK: Legend
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089125.ts
+#EXTINF:-1 tvg-id="INSPIR" tvg-name="UK: Inspiration TV" tvg-logo="http://vpngenerators.com:25461/images/465558f2a4c5ba62be8a35e06bd56e37.png" group-title="UK VIP : Entertainment",UK: Inspiration TV
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20089126.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS English 1 FHD (50 FPS)" tvg-logo="http://vpngenerators.com:25461/images/1996c010643afbaf8a3aee9115c945d5.png" group-title="beIN Sport FHD 50 FPS (only Match Time)",BEIN SPORTS English 1 FHD (50 FPS)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/3800.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS English 2 FHD (50 FPS)" tvg-logo="http://vpngenerators.com:25461/images/2d86ca358fd8e21be94fbbb6dc131423.png" group-title="beIN Sport FHD 50 FPS (only Match Time)",BEIN SPORTS English 2 FHD (50 FPS)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/8250.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS English 3 FHD (50 FPS)" tvg-logo="http://vpngenerators.com:25461/images/5b61cb0db32e19d9b0b7cfa5dd15dd54.png" group-title="beIN Sport FHD 50 FPS (only Match Time)",BEIN SPORTS English 3 FHD (50 FPS)
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/8251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: Super Sports Premier League B/U 2" tvg-logo="" group-title="AFRICA : South Africa",Af | DSTV: Super Sports Premier League B/U 2
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20100703.ts
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vpngenerators.com:25461/images/1cd0ee823e9aa15eb1fe56f5b8098d47.png" group-title="AFRICA : South Africa",Af | DSTV: Super Sports Premier League
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20100701.ts
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: Super Sports Premier League B/U 1" tvg-logo="" group-title="AFRICA : South Africa",Af | DSTV: Super Sports Premier League B/U 1
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20100702.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: SuperSport Premier League HD" tvg-logo="" group-title="AFRICA :  Afrique Channels",AF: SuperSport Premier League HD
+http://vpngenerators.com:25461/sejomaz/freeiptvgen/20036061.ts
+
